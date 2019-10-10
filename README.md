@@ -1,2 +1,2 @@
 # Projetos-academicos
-Nesse repositório está disposto alguns trabalhos realizados durante o periodo de faculdade.
+Nesse repositório estão dispostos alguns trabalhos realizados durante o periodo de faculdade.
