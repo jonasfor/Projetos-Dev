@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431558793 source:c:\users\jonasforte\documents\megasync\pp\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+

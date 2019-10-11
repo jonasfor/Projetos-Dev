@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1528835856 source:c:\users\41635591830\desktop\lista encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cablista.h"
+
+1528836092 source:c:\users\41635591830\desktop\lista encadeada\estrutura.c
+	<stdio.h>
+	<stdlib.h>
+	"cablista.h"
+
+1528835831 c:\users\41635591830\desktop\lista encadeada\cablista.h
+
