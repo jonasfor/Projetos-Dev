@@ -1,8 +1,3 @@
-/* 
-	Program: Skeleton of a multi-programmed OS simulator 
-	Author: Fabrício Sérgio de Paula (part. Jonas Forte Silva)
-	Year: 2015
-*/
 /*Declaração de bibliotecas*/
 #include <stdio.h>
 #include <stdlib.h>
